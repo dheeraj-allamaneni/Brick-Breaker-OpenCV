@@ -4,3 +4,5 @@ Trying to use openCV on the classic 1986 – Arkanoid Series brick breaker game,
 ![test image size](/images/c5da08bf6390a2d807b2cdb939993fdc.gif){:class="img-responsive"}
 ![test image size](/images/c5da08bf6390a2d807b2cdb939993fdc.gif){:height="50%" width="50%"}
 ![test image size](/images/c5da08bf6390a2d807b2cdb939993fdc.gif){:height="700px" width="400px"}
+
+![alt-text-1](/images/c5da08bf6390a2d807b2cdb939993fdc.gif "title-1") ![alt-text-2](/images/c5da08bf6390a2d807b2cdb939993fdc.gif "title-2")
