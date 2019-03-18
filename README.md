@@ -37,3 +37,26 @@ Yes, I have realized how bad the idea of video processing in MATLAB was but i ha
   <img src="/images/2wav75.gif" width="400" />
   <img src="/images/2wav83.gif" width="400" />
 </p>
+
+## Lets count number of blocks in each column
+I have solved this in MATLAB !!!.
+<p float="left">
+  <img src="https://media.giphy.com/media/PNvpNRGE0kZaNZpihr/source.gif" width="250">
+</p>
+Wait! I can explain this, I started this whole project from here, so initially started with MATLAB.My Bad.
+
+### Batch 1
+<p float="left">
+  <img src="/images/2wavvg.gif" width="400" />
+  <img src="/images/2wavw9.gif" width="400" />
+</p>
+
+### Batch 2
+<p float="left">
+  <img src="/images/2wavyh.gif" width="400" />
+  <img src="/images/2wavze.gif" width="400" />
+</p>
+
+<p float="left">
+  <img src="https://media.giphy.com/media/QM5lHSyFjz1XW/giphy.gif" width="250">
+</p>
